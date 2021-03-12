@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidejones88
-- 👀 I’m interested in UE4, c++, Unity, C#
+- 👀 I’m interested in UE4, C++, Unity, C#
 - 🌱 I’m currently learning Japanese 
 
 <!---
